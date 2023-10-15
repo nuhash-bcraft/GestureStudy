@@ -11,6 +11,18 @@
 		879A0BF52ADC150200E59FF5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0BF42ADC150200E59FF5 /* ContentView.swift */; };
 		879A0BF72ADC150600E59FF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 879A0BF62ADC150600E59FF5 /* Assets.xcassets */; };
 		879A0BFA2ADC150600E59FF5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 879A0BF92ADC150600E59FF5 /* Preview Assets.xcassets */; };
+		879A0C0D2ADC153500E59FF5 /* LongPressGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C012ADC153400E59FF5 /* LongPressGestureView.swift */; };
+		879A0C0E2ADC153500E59FF5 /* MagnifyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C022ADC153400E59FF5 /* MagnifyView.swift */; };
+		879A0C0F2ADC153500E59FF5 /* SequencedGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C032ADC153400E59FF5 /* SequencedGestureView.swift */; };
+		879A0C102ADC153500E59FF5 /* ExclusiveGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C042ADC153400E59FF5 /* ExclusiveGestureView.swift */; };
+		879A0C112ADC153500E59FF5 /* HighPriorityGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C052ADC153400E59FF5 /* HighPriorityGestureView.swift */; };
+		879A0C122ADC153500E59FF5 /* SimultaneousGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C062ADC153400E59FF5 /* SimultaneousGestureView.swift */; };
+		879A0C132ADC153500E59FF5 /* HigherPriorityGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C072ADC153400E59FF5 /* HigherPriorityGestureExample.swift */; };
+		879A0C142ADC153500E59FF5 /* TapGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C082ADC153400E59FF5 /* TapGestureView.swift */; };
+		879A0C152ADC153500E59FF5 /* ExclusiveGestureExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C092ADC153400E59FF5 /* ExclusiveGestureExample.swift */; };
+		879A0C162ADC153500E59FF5 /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C0A2ADC153400E59FF5 /* RotationGestureView.swift */; };
+		879A0C172ADC153500E59FF5 /* SwipeGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C0B2ADC153400E59FF5 /* SwipeGestureView.swift */; };
+		879A0C182ADC153500E59FF5 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879A0C0C2ADC153400E59FF5 /* DragGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		879A0BF42ADC150200E59FF5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		879A0BF62ADC150600E59FF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		879A0BF92ADC150600E59FF5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		879A0C012ADC153400E59FF5 /* LongPressGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongPressGestureView.swift; sourceTree = "<group>"; };
+		879A0C022ADC153400E59FF5 /* MagnifyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MagnifyView.swift; sourceTree = "<group>"; };
+		879A0C032ADC153400E59FF5 /* SequencedGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SequencedGestureView.swift; sourceTree = "<group>"; };
+		879A0C042ADC153400E59FF5 /* ExclusiveGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExclusiveGestureView.swift; sourceTree = "<group>"; };
+		879A0C052ADC153400E59FF5 /* HighPriorityGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HighPriorityGestureView.swift; sourceTree = "<group>"; };
+		879A0C062ADC153400E59FF5 /* SimultaneousGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SimultaneousGestureView.swift; sourceTree = "<group>"; };
+		879A0C072ADC153400E59FF5 /* HigherPriorityGestureExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HigherPriorityGestureExample.swift; sourceTree = "<group>"; };
+		879A0C082ADC153400E59FF5 /* TapGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TapGestureView.swift; sourceTree = "<group>"; };
+		879A0C092ADC153400E59FF5 /* ExclusiveGestureExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExclusiveGestureExample.swift; sourceTree = "<group>"; };
+		879A0C0A2ADC153400E59FF5 /* RotationGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
+		879A0C0B2ADC153400E59FF5 /* SwipeGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwipeGestureView.swift; sourceTree = "<group>"; };
+		879A0C0C2ADC153400E59FF5 /* DragGestureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +75,7 @@
 		879A0BF12ADC150200E59FF5 /* GestureStudy */ = {
 			isa = PBXGroup;
 			children = (
+				879A0C002ADC153400E59FF5 /* Gestures */,
 				879A0BF22ADC150200E59FF5 /* GestureStudyApp.swift */,
 				879A0BF42ADC150200E59FF5 /* ContentView.swift */,
 				879A0BF62ADC150600E59FF5 /* Assets.xcassets */,
@@ -65,6 +90,25 @@
 				879A0BF92ADC150600E59FF5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		879A0C002ADC153400E59FF5 /* Gestures */ = {
+			isa = PBXGroup;
+			children = (
+				879A0C082ADC153400E59FF5 /* TapGestureView.swift */,
+				879A0C012ADC153400E59FF5 /* LongPressGestureView.swift */,
+				879A0C0C2ADC153400E59FF5 /* DragGestureView.swift */,
+				879A0C022ADC153400E59FF5 /* MagnifyView.swift */,
+				879A0C0A2ADC153400E59FF5 /* RotationGestureView.swift */,
+				879A0C062ADC153400E59FF5 /* SimultaneousGestureView.swift */,
+				879A0C032ADC153400E59FF5 /* SequencedGestureView.swift */,
+				879A0C042ADC153400E59FF5 /* ExclusiveGestureView.swift */,
+				879A0C092ADC153400E59FF5 /* ExclusiveGestureExample.swift */,
+				879A0C052ADC153400E59FF5 /* HighPriorityGestureView.swift */,
+				879A0C072ADC153400E59FF5 /* HigherPriorityGestureExample.swift */,
+				879A0C0B2ADC153400E59FF5 /* SwipeGestureView.swift */,
+			);
+			path = Gestures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +181,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				879A0C142ADC153500E59FF5 /* TapGestureView.swift in Sources */,
 				879A0BF52ADC150200E59FF5 /* ContentView.swift in Sources */,
+				879A0C0F2ADC153500E59FF5 /* SequencedGestureView.swift in Sources */,
+				879A0C132ADC153500E59FF5 /* HigherPriorityGestureExample.swift in Sources */,
+				879A0C0D2ADC153500E59FF5 /* LongPressGestureView.swift in Sources */,
+				879A0C122ADC153500E59FF5 /* SimultaneousGestureView.swift in Sources */,
+				879A0C0E2ADC153500E59FF5 /* MagnifyView.swift in Sources */,
 				879A0BF32ADC150200E59FF5 /* GestureStudyApp.swift in Sources */,
+				879A0C172ADC153500E59FF5 /* SwipeGestureView.swift in Sources */,
+				879A0C102ADC153500E59FF5 /* ExclusiveGestureView.swift in Sources */,
+				879A0C182ADC153500E59FF5 /* DragGestureView.swift in Sources */,
+				879A0C152ADC153500E59FF5 /* ExclusiveGestureExample.swift in Sources */,
+				879A0C162ADC153500E59FF5 /* RotationGestureView.swift in Sources */,
+				879A0C112ADC153500E59FF5 /* HighPriorityGestureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +331,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +361,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.7;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

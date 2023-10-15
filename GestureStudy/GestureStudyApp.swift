@@ -11,7 +11,8 @@ import SwiftUI
 struct GestureStudyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           // ContentView()
+            HighPriorityGestureExample()
         }
     }
 }
